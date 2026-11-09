@@ -1,0 +1,50 @@
+Fundamentals of Software Engineering
+1. Software Engineering: It is a systematic approach to the development, operation, testing, and maintenance of software.
+
+2. Software: It is a collection of programs and instructions that perform specific tasks.
+
+3. Software Development: It is the process of creating software to solve a particular problem.
+
+4. Feasibility Study: It checks whether a software project is possible technically, economically, and operationally.
+
+5. Requirement Analysis: It is the process of understanding and collecting user requirements.
+
+6. Abstraction: It means hiding unnecessary details and showing only essential information.
+
+7. Decomposition: It means dividing a large problem into smaller and manageable parts.
+
+8. Modularity: It means dividing software into independent modules.
+
+9. Functional Requirements: They describe what a system should do.
+
+10. Non-Functional Requirements: They describe how a system should perform.
+
+11. Maintainability: It is the ability to modify and update software easily.
+
+12. Understandability: It means software code should be easy to read and understand.
+
+13. Reusability: It means using existing code or components in different applications.
+
+14. Reliability: It is the ability of software to work correctly without failure.
+
+15. Scalability: It is the ability of software to handle increasing users or workload.
+
+16. Software Testing: It is the process of identifying errors and checking whether software works correctly.
+
+17. Debugging: It is the process of finding and fixing errors in a program.
+
+18. Software Maintenance: It is the process of updating and improving software after delivery.
+
+19. Agile Model: It is an iterative software development model that supports changing requirements.
+
+20. Waterfall Model: It is a sequential software development model in which each phase is completed before the next phase begins.
+
+21. Software Design: It is the process of planning the structure and components of software.
+
+22. Documentation: It is the written information that explains software functionality and usage.
+
+23. Verification: It checks whether the software is being developed correctly.
+
+24. Validation: It checks whether the developed software meets user requirements.
+
+25. Software Quality: It refers to how well software meets specified requirements and user expectations.
